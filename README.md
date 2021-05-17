@@ -2,7 +2,13 @@
 Sentiment classification of text input into positive / neutral / negative classes.
 
 **Model Architecture Used: BERT**
+
+Reference: Google official documents - https://github.com/tensorflow/docs/tree/master/site/en/tutorials/text
+
+
 **Dataset used: 3 class twitter sentiment analysis data**
+Reference: Kaggle - https://www.kaggle.com/seriousran/appletwittersentimenttexts
+
 
 ## For training:
 * Refer `./train/train.ipynb`
